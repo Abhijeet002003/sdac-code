@@ -15,8 +15,6 @@ class Emp{
 		this.name = name;
 		this.id = id;
 		this.sal = sal;
-		
-		
 	}
 	@Override
 	public String toString() {
