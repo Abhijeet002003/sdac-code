@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="q4.Account"/>
+    <fullyQualifiedTypeName name="q4.Worker"/>
+    <fullyQualifiedTypeName name="q4.Manager"/>
+    <fullyQualifiedTypeName name="q4.Hr"/>
+    <fullyQualifiedTypeName name="java.lang.MatchException"/>
+    <fullyQualifiedTypeName name="q6.main"/>
+    <fullyQualifiedTypeName name="Containment.main"/>
+    <fullyQualifiedTypeName name="Aggregation.Emp.Main"/>
+    <fullyQualifiedTypeName name="q5.main"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="super_keyword.Owner"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="fetch.Emp"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="arrayList1.Emp"/>
+</qualifiedTypeNameHistroy>

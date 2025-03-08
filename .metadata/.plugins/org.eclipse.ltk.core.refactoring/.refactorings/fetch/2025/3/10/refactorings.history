@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;covariant&apos; to &apos;chp5/src&apos;&#x0D;&#x0A;- Original project: &apos;fetch&apos;&#x0D;&#x0A;- Destination element: &apos;chp5/src&apos;&#x0D;&#x0A;- Original element: &apos;fetch/src/covariant&apos;" description="Copy package" destination="=chp5/src" element1="/src&lt;covariant" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1741429618953" version="1.0"/>
+</session>
